@@ -3,7 +3,7 @@ answering in Russian built with transfer learning techniques.
 
 BERT - the model for classifying questions.
 
-T5 - the model model that generates responses.
+T5 - the model that generates responses.
 
 qa_analysis - analysis of questions.
 
